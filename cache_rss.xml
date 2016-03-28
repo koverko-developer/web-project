@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version='2.0'>
+<channel>
+      <title>Веб-компас сайтостроителей www.linedmk.com</title>
+      <link>http://www.linedmk.com/</link>
+      <description>Веб-компас сайтостроителей - ресурс поможет узнать, как можно создать свой сайт самостоятельно.</description>
+      <language>ru</language>
+      <lastBuildDate>Mon, 20 Jul 2009 22:19:00  GMT </lastBuildDate>
+         <item>
+         <title>Уменьшение рисунков средствами PHP</title>
+         <link>http://www.linedmk.com/page58.html</link>
+         <description>Очень часто бывает необходимость уменьшать рисунки, например, при получении изображений от пользователей сайта. Сделать уменьшение рисунков нам поможет PHP. В этой статье рассмотрим функцию уменьшения рисунков следующих форматов: jpg, gif и png.</description>
+         <pubDate>Mon, 20 Jul 2009 22:19:00  GMT +0300</pubDate>
+         </item>
+         
+         <item>
+         <title>Скрипт на PHP для вывода на сайте RSS - новостей</title>
+         <link>http://www.linedmk.com/page57.html</link>
+         <description>Скачать бесплатно PHP скрипт вывода RSS-ленты на сайте. Скрипт не использует DOM-функций, а обходится регулярными выражениями.</description>
+         <pubDate>Mon, 22 Jun 2009 14:30:00  GMT +0300</pubDate>
+         </item>
+         
+         <item>
+         <title>Добавлен новый раздел, в котором можно будет скачать бесплатно PHP скрипты</title>
+         <link>http://www.linedmk.com/punkt17/</link>
+         <description>В этом разделе будут публиковаться бесплатные PHP скрипты, которые можно будет скачать бесплатно и использовать у себя на сайте.</description>
+         <pubDate>Mon, 22 Jun 2009 14:28:00  GMT +0300</pubDate>
+         </item>
+         
+         <item>
+         <title>Методы передачи данных GET и POST и поддержка этих способов PHP</title>
+         <link>http://www.linedmk.com/page54.html</link>
+         <description>Получение данных от пользователей методами GET и POST. Получение и обработка данных на PHP.</description>
+         <pubDate>Sun, 14 Jun 2009 01:03:00  GMT +0300</pubDate>
+         </item>
+         
+         <item>
+         <title>Основы программирования на PHP</title>
+         <link>http://www.linedmk.com/page53.html</link>
+         <description>Вставка операторов PHP в HTML-код. Использование комментариев, создание переменных и констант. Общие понятия.</description>
+         <pubDate>Sun, 14 Jun 2009 01:01:00  GMT +0300</pubDate>
+         </item>
+         
+         <item>
+         <title>Добавлен новый раздел Веб-программирование на PHP</title>
+         <link>http://www.linedmk.com/punkt16/</link>
+         <description>Статьи про PHP, примеры использования с пояснениями и скрипты.</description>
+         <pubDate>Sun, 14 Jun 2009 00:58:00  GMT +0300</pubDate>
+         </item>
+         
+         <item>
+         <title>Практические советы по оптимизации текста с помощью сервиса Анализ текста страниц сайтов</title>
+         <link>http://www.linedmk.com/page44.html</link>
+         <description>Используя сервис Анализ текста страниц веб-сайтов можно максимально эффективно оптимизировать текст</description>
+         <pubDate>Wed, 14 Jan 2009 10:53:00  GMT +0300</pubDate>
+         </item>
+         
+         <item>
+         <title>Разработан сервис - Анализ текста страниц веб-сайтов</title>
+         <link>http://www.linedmk.com/tekstanaliz/</link>
+         <description>Сервис Анализ текста страниц веб-сайтов позволит проанализировать текст страницы для последующей оптимизации текста под поисковые машины. Проведет анализ  текста на соответствие заданному слову или словосочетанию. Выявит наиболее повторяющиеся словосочетания.</description>
+         <pubDate>Tue, 13 Jan 2009 10:34:00  GMT +0300</pubDate>
+         </item>
+         
+         <item>
+         <title>Бесплатный скрипт доски объявлений</title>
+         <link>http://www.linedmk.com/punkt14/</link>
+         <description>Бесплатный скрипт доски объявлений позволит создать свою доску объявлений за 10 минут, с функциональностью не уступающей платным скриптам.</description>
+         <pubDate>Tue, 02 Dec 2008 21:51:00  GMT +0300</pubDate>
+         </item>
+         
+         <item>
+         <title>Создание выдвижных вкладок на JavaScript</title>
+         <link>http://www.linedmk.com/page37.html</link>
+         <description>Динамические эффекты на JavaScript придают сайту интересный внешний вид, в этой статье будет  рассмотрено, как можно создать выдвижные вкладки на JavaScript.</description>
+         <pubDate>Wed, 05 Nov 2008 01:43:00  GMT +0300</pubDate>
+         </item>
+         
+</channel>
+</rss>
